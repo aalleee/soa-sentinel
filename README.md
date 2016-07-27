@@ -1,3 +1,8 @@
+# DEPRECATED
+
+Please check https://github.com/LaravelRUS/SleepingOwlAdmin 
+
+
 #SleepingOwl Admin Panel with Sentinel Integration
 
 
